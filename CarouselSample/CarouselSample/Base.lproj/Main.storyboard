@@ -61,10 +61,10 @@
             </objects>
             <point key="canvasLocation" x="128.80000000000001" y="133.5832083958021"/>
         </scene>
-        <!--Page View Controller-->
+        <!--Carousel Page View Controller-->
         <scene sceneID="DRF-hy-fHn">
             <objects>
-                <pageViewController autoresizesArchivedViewToFullSize="NO" transitionStyle="pageCurl" navigationOrientation="horizontal" spineLocation="min" id="Sgm-2L-5qf" sceneMemberID="viewController"/>
+                <pageViewController autoresizesArchivedViewToFullSize="NO" transitionStyle="scroll" navigationOrientation="horizontal" spineLocation="none" id="Sgm-2L-5qf" customClass="CarouselPageViewController" customModule="CarouselSample" customModuleProvider="target" sceneMemberID="viewController"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="LXn-NA-44j" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="129" y="913"/>
