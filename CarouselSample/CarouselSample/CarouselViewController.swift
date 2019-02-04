@@ -8,5 +8,9 @@ class CarouselViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
     }
+    
+    @IBAction func onButtonNextTap(_ sender: Any) {
+        // perform action 
+    }
 }
 
